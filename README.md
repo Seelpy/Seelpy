@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maksim! 👋</h1>
+<h1 align="center">Hi, I'm Maks! 👋</h1>
 <div align="center"><img src="https://user-images.githubusercontent.com/71544630/229284982-62329c13-9cd9-4350-a108-26cd0832722b.gif"></div>
 
 <h2 align="center">🚀 About Me</h2>
